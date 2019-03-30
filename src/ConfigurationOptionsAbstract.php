@@ -8,6 +8,7 @@
 namespace Mrcnpdlk\Lib;
 
 use Psr\Log\LoggerInterface;
+use Psr\Log\NullLogger;
 
 /**
  * Class ConfigurationOptionsAbstract
