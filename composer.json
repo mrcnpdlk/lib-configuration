@@ -1,0 +1,22 @@
+{
+    "name": "mrcnpdlk/lib-configuration",
+    "license": "MIT",
+    "description": "Configuration Option Library",
+    "minimum-stability": "stable",
+    "type": "library",
+    "authors": [ {
+        "name": "Marcin Pudełek",
+        "email": "marcin@pudelek.org.pl",
+        "role": "Developer"
+    } ],
+    "require": {
+        "php": ">=7.2",
+        "psr/log": "^1",
+        "mrcnpdlk/lib-exception": "^0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mrcnpdlk\\Lib\\": "src/"
+        }
+    }
+}
