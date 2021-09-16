@@ -1,6 +1,7 @@
 composer.phar
 /vendor/
 /devel/
+.idea/
 
 ### Windows template
 # Windows thumbnail cache files

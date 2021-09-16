@@ -11,7 +11,7 @@
     } ],
     "require": {
         "php": ">=7.2",
-        "psr/log": "^1",
+        "psr/log": "^1||^2",
         "mrcnpdlk/lib-exception": "^0"
     },
     "autoload": {
