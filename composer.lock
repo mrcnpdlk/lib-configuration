@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "51b5a066e46f4baec4a60c86324afa74",
+    "content-hash": "3df32f3f359cf9ed37f489dc8e9869c1",
     "packages": [
         {
             "name": "mrcnpdlk/lib-exception",
@@ -108,5 +108,5 @@
         "php": ">=7.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.6.0"
 }
